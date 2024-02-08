@@ -8,7 +8,7 @@ public class Parkeringsplads {
 
     public Parkeringsplads(int nummer, LocalTime ankomst) {
         this.nummer = nummer;
-        this.ankomst = LocalTime.;
+        this.ankomst = LocalTime.now();
     }
     public Bil getBil() {
         return bil;
