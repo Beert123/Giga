@@ -8,5 +8,13 @@ public class Main {
         int fuck2 = 1;
 
         String hej = "Jeg arbejder på testBranch :)";
+        testtest();
+        hease();
+    }
+
+    private static void hease() {
+    }
+
+    private static void testtest() {
     }
 }
