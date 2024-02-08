@@ -10,8 +10,7 @@ public class Parkeringshus {
     public Parkeringsplads createParkeringsplads(int nummer) {
         Parkeringsplads parkeringsplads = new Parkeringsplads(nummer, null);
         parkeringspladser.add(parkeringsplads);
-        System.out.println("Hej :)");
         return parkeringsplads;
-}
+    }
 
 }
