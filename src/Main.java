@@ -6,10 +6,5 @@ public class Main {
 
         int fuck3 = 4;
         int fuck2 = 1;
-        writeing();
-        muster();
-    }
-
-    private static void writeing() {
     }
 }
